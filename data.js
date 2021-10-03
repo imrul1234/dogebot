@@ -10,9 +10,9 @@ bot_admin: 1883426700,// admin telegram id
 
 channelsList : ['@BinanceFutureSignal_Vip','@FreeBotUpdate29','@FreeDogePayPayment'], // channels list
 
-reffer_bonus: 0.005 ,// refferal bonus amount
+reffer_bonus: 0.005,// refferal bonus amount
 
-min_wd: 0.000001 ,//min withdrawal amount
+min_wd: 0.000001,//min withdrawal amount
 
 daily_bonus: 0.0008,// daily bonus amount
 
